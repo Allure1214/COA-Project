@@ -48,3 +48,9 @@ This is an Assembly Language program that calculates the average of three user-i
 - The average of the three numbers will be calculated and displayed.
 - The result is rounded to the nearest integer.
 - After displaying the result, you can either continue with new inputs or press 'q' to quit the program.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- **Irvine32 Library** by Kip R. Irvine, used for input/output operations in this program.
